@@ -1,0 +1,9 @@
+@media screen and (max-width:768px){
+    .header-content{
+        width: 250px !important;
+    }
+    .header-content h3{
+        font-size: 20px;
+        top: 30% !important;
+    }
+}
